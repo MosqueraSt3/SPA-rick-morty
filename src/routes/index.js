@@ -3,6 +3,9 @@ import Home from '../pages/Home'
 import Character from '../pages/Character'
 import Error404 from '../pages/Error404'
 
+import getHash from '../utils/getHash'
+import resolveRoutes from '../utils/resolveRoutes'
+
 const routes = {
     '/': Home,
     '/:id': Character,
