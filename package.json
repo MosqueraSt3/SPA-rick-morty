@@ -1,0 +1,19 @@
+{
+  "name": "spa-rick-morty",
+  "version": "1.0.0",
+  "description": "SPA ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosqueraSt3/SPA-rick-morty.git"
+  },
+  "author": "MosqueraSt3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MosqueraSt3/SPA-rick-morty/issues"
+  },
+  "homepage": "https://github.com/MosqueraSt3/SPA-rick-morty#readme"
+}
