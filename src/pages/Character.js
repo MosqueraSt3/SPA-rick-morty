@@ -18,4 +18,4 @@ const character = () => {
     return view
 }
 
-module.exports = character
+export default character

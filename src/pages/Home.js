@@ -12,4 +12,4 @@ const home = () => {
     return view
 }
 
-module.exports = home
+export default home

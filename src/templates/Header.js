@@ -18,4 +18,4 @@ const header = () => {
     return view
 }
 
-module.exports = header
+export default header
